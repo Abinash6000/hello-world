@@ -1,7 +1,7 @@
 # hello-world
 Hello World
 
-##Name - Abinash
+#h1 Name - Abinash
 ## School - ** Kendriya Vidyalaya**
 ### Learning - ** DSA And Github**
 ### Interests - ** Code && Books**
