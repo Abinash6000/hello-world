@@ -9,3 +9,4 @@ Hello World
 ### Age -  19 
 College - VIT Bhopal
 Location - India
+Goals - learn dsa
